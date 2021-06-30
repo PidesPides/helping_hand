@@ -119,7 +119,6 @@ class Login extends Component {
             isInstitution = false;
         }
         this.setState({ isInstitution: isInstitution });
-
     }
 
     hideAlert(){
