@@ -62,7 +62,6 @@ class Login extends Component {
                     return;
                 }
                 );
-
             }
             else{
                 url += ServicePathsLabel.Institution + "/" + this.state.username + PathsLabel.Login;
